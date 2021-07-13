@@ -1,0 +1,7 @@
+spec:
+  name: knative-hello-bnova
+  services:
+    - name: knative-hello-bnova-service
+      git:
+        branch: main
+        repo_clone_url: https://github.com/b-nova-techhub/knative-hello-bnova.git
