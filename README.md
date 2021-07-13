@@ -28,8 +28,7 @@ knative-hello-bnova-service   http://knative-hello-bnova-service.knative-hello-b
 
 ## Quick Deployment to DigitalOcean's Kubernetes
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?
-repo=https://github.com/b-nova-techhub/knative-hello-bnova/tree/main)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/b-nova-techhub/knative-hello-bnova/tree/main)
 
 ## Contact
 If you want to contact me you can reach me at [developer@b-nova.com](developer@b-nova.com).
