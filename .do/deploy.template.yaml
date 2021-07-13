@@ -5,3 +5,6 @@ spec:
       git:
         branch: main
         repo_clone_url: https://github.com/b-nova-techhub/knative-hello-bnova.git
+      envs:
+        - key: MESSAGE
+          value: "from the whole b-nova team!"
